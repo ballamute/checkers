@@ -1,4 +1,4 @@
-# checkers
+# Checkers
 Checkers 1C project
 
 Проект 1С шашки. Использование:  
